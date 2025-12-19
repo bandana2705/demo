@@ -1,2 +1,3 @@
 # demo
-this is my Git Repository
+this is my first Git Repository
+author - bandana
